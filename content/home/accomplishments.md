@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
   - certificate_url: https://www.sciencedirect.com/journal/signal-processing
     date_end: ''
-    date_start: '2021-01-01'
+    date_start: '2022-07-08'
     description: This paper has been officially accepted by Signal Processing on 8, July, 2022. Mingzhe Zhu and Zhenpeng Feng are joint first authors.
     organization: Signal Processing
     organization_url: https://www.edx.org
