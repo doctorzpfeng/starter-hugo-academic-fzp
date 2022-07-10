@@ -10,7 +10,7 @@ role: Ph.D. Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Xidian University
+  - name: School of Electronic Engineering, Xidian University
     url: https://www.xidian.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,8 +70,9 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Zhenpeng Feng is currently a Ph.D. student of control science and engineering at School of Electronic Engineering, Xidian University. His research interests 
+include interpreting neural networks, SAR image processing, and time-frequency analysis. He is fully sponsored by a scholarship of Xidian University to be a visiting student in Faculty of Electrical Engineering, Univeristy of Montenegro, working
+with Prof. Ljubisa Stankovic (IEEE Fellow, member of European Academy of Sciences and Arts) and his research team.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
+Zhenpeng Feng has published about 10 papers in leading journal, like Signal Processing, Remote Sensing, etc.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
