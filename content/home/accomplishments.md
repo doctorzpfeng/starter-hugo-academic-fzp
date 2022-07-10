@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'News'
+title: 'Latest News'
 subtitle:
 
 # Date format
@@ -29,7 +29,7 @@ item:
     description: ''
     organization: Coursera
     organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    title: Paper "A Probe-Feature for Specific Emitter Identification Using Axiom-based Grad-CAM" has been accepted by Signal Processing
     url: ''
   - certificate_url: https://www.edx.org
     date_end: ''
