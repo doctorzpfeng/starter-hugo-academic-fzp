@@ -49,5 +49,5 @@ item:
 CNNs for SAR Image Interpretation" has been published in Remote Sensing !
 
 design:
-  columns: '2'
+  columns: '3'
 ---
