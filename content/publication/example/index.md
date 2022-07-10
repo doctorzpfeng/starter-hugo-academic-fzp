@@ -16,7 +16,7 @@ author_notes:
   - 'Corresponding Author'
 
 date: '2021-05-01'
-doi: 10.3390/rs13091772
+doi: '10.3390/rs13091772'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-05-01'
