@@ -38,7 +38,6 @@ item:
     organization: ArXiv
     organization_url: https://arxiv.org/abs/2205.13294
     title: 27 May 2022: Paper "Analytical Interpretation of Latent Codes in InfoGAN with SAR Images" has been preprinted in ArXiv !
-
 design:
   columns: '2'
 ---
