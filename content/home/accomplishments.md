@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.sciencedirect.com/journal/signal-processing
+  - certificate_url: 
     date_end: ''
     date_start: '2022-07-08'
     description: This paper has been officially accepted by Signal Processing on 8, July, 2022. Mingzhe Zhu and Zhenpeng Feng are joint first authors.
