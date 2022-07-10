@@ -39,15 +39,6 @@ item:
     organization_url: https://arxiv.org/abs/2205.13294
     title: 27 May 2022: Paper "Analytical Interpretation of Latent Codes in InfoGAN with SAR Images" has been preprinted in ArXiv !
 
-  - certificate_url: 
-    date_end: ''
-    date_start: '2021-05-01'
-    description: This paper has been published in Remote Sensing. Zhenpeng Feng is the first author of this paper.
-    organization: ArXiv
-    organization_url: https://arxiv.org/abs/2205.13294
-    title: 1 May 2021: Paper "Self-Matching CAM: A Novel Accurate Visual Explanation of
-CNNs for SAR Image Interpretation" has been published in Remote Sensing !
-
 design:
-  columns: '3'
+  columns: '2'
 ---
