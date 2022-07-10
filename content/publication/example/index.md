@@ -6,46 +6,31 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Mingzhe Zhu
-  - Ljubisa Stankoviv
-  - Hongbing Ji
+  - Robert Ford
 
 # Author notes (optional)
 author_notes:
-  - 'First Author'
-  - 'Corresponding Author'
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2021-05-01'
+date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-05-01'
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Remote Sensing*
-# publication_short: In *ICW*
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
 
-abstract: Synthetic aperture radar (SAR) image interpretation has long been an important but
-challenging task in SAR imaging processing. Generally, SAR image interpretation comprises complex
-procedures including filtering, feature extraction, image segmentation, and target recognition, which
-greatly reduce the efficiency of data processing. In an era of deep learning, numerous automatic
-target recognition methods have been proposed based on convolutional neural networks (CNNs) due
-to their strong capabilities for data abstraction and mining. In contrast to general methods, CNNs
-own an end-to-end structure where complex data preprocessing is not needed, thus the efficiency
-can be improved dramatically once a CNN is well trained. However, the recognition mechanism
-of a CNN is unclear, which hinders its application in many scenarios. In this paper, Self-Matching
-class activation mapping (CAM) is proposed to visualize what a CNN learns from SAR images to
-make a decision. Self-Matching CAM assigns a pixel-wise weight matrix to feature maps of different
-channels by matching them with the input SAR image. By using Self-Matching CAM, the detailed
-information of the target can be well preserved in an accurate visual explanation heatmap of a CNN
-for SAR image interpretation. Numerous experiments on a benchmark dataset (MSTAR) verify the
-validity of Self-Matching CAM.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
