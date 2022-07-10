@@ -23,11 +23,11 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.edx.org
+  - certificate_url: https://www.sciencedirect.com/journal/signal-processing
     date_end: ''
     date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
+    description: This paper has been officially accepted by Signal Processing on 8, July, 2022. Mingzhe Zhu and Zhenpeng Feng are joint first authors.
+    organization: Signal Processing
     organization_url: https://www.edx.org
     title: Paper "A Probe-Feature for Specific Emitter Identification Using Axiom-based Grad-CAM" has been accepted by Signal Processing!
     url: https://www.sciencedirect.com/journal/signal-processing
