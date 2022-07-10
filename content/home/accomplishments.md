@@ -47,6 +47,7 @@ item:
     organization_url: https://www.mdpi.com/2072-4292/13/20/4139
     title: 15 October 2021 Paper " SC-SM CAM: An Efficient Visual Interpretation of CNN for
 SAR Images Target Recognition" has been published in Remote Sensing !
+
 design:
-  columns: '2'
+  columns: '3'
 ---
