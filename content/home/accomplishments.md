@@ -45,7 +45,8 @@ item:
     description: This paper has been published in Remote Sensing on 15, October, 2021. Zhenpeng Feng is the first author.
     organization: arXiv
     organization_url: https://arxiv.org/abs/2205.13294
-    title: 15 October 2021 Paper " Analytical Interpretation of Latent Codes in InfoGAN with SAR Images" has been published in Remote Sensing !
+    title: 15 October 2021 Paper " SC SM CAM An Efficient Visual Interpretation of CNN for
+SAR Images Target Recognition" has been published in Remote Sensing !
 
 design:
   columns: '2'
