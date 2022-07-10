@@ -29,7 +29,7 @@ item:
     description: This paper has been officially accepted by Signal Processing on 8, July, 2022. Mingzhe Zhu and Zhenpeng Feng (corresponding author) are joint first authors.
     organization: Signal Processing
     organization_url: https://www.edx.org
-    title: 8 July 2022: Paper " A Probe-Feature for Specific Emitter Identification Using Axiom-based Grad-CAM" has been accepted by Signal Processing !
+    title: 8 July 2022 Paper " A Probe-Feature for Specific Emitter Identification Using Axiom-based Grad-CAM" has been accepted by Signal Processing !
 
 design:
   columns: '2'
