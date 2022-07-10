@@ -29,15 +29,24 @@ item:
     description: This paper has been officially accepted by Signal Processing on 8, July, 2022. Mingzhe Zhu and Zhenpeng Feng (corresponding author) are joint first authors.
     organization: Signal Processing
     organization_url: https://www.edx.org
-    title: Paper "A Probe-Feature for Specific Emitter Identification Using Axiom-based Grad-CAM" has been accepted by Signal Processing !
+    title: 8 July 2022: Paper " A Probe-Feature for Specific Emitter Identification Using Axiom-based Grad-CAM" has been accepted by Signal Processing !
 
   - certificate_url: 
     date_end: ''
     date_start: '2022-05-27'
-    description: This paper has been preprinted in ArXiv an under review in IEEE Transactions on Aerospace and Electronic System.
+    description: This paper has been preprinted in ArXiv an under review in IEEE Transactions on Aerospace and Electronic System. Zhenpeng Feng is the first author of this paper.
     organization: ArXiv
     organization_url: https://arxiv.org/abs/2205.13294
-    title: Paper "Analytical Interpretation of Latent Codes in InfoGAN with SAR Images" has been preprinted in ArXiv !
+    title: 27 May 2022: Paper "Analytical Interpretation of Latent Codes in InfoGAN with SAR Images" has been preprinted in ArXiv !
+
+  - certificate_url: 
+    date_end: ''
+    date_start: '2021-05-01'
+    description: This paper has been published in Remote Sensing. Zhenpeng Feng is the first author of this paper.
+    organization: ArXiv
+    organization_url: https://arxiv.org/abs/2205.13294
+    title: 1 May 2021: Paper "Self-Matching CAM: A Novel Accurate Visual Explanation of
+CNNs for SAR Image Interpretation" has been published in Remote Sensing !
 
 design:
   columns: '2'
