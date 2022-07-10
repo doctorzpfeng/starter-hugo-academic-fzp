@@ -45,7 +45,7 @@ item:
     description: This paper has been preprinted in arXiv on 27, May, 2022 and under review in IEEE Transactions on Aerospace and Electronic System. Zhenpeng Feng is the first author and corresponding author.
     organization: arXiv
     organization_url: https://arxiv.org/abs/2205.13294
-    title: 27 May 2022 Paper " Analytical Interpretation of Latent Codes in InfoGAN with SAR Images" has been preprinted in arXiv !
+    title: 15 October 2021 Paper " Analytical Interpretation of Latent Codes in InfoGAN with SAR Images" has been preprinted in arXiv !
 
 design:
   columns: '2'
