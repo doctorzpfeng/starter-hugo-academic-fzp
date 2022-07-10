@@ -64,7 +64,7 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: '' zpfeng_1@stu.xidian.edu.cn
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
