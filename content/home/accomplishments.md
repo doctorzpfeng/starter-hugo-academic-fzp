@@ -31,6 +31,14 @@ item:
     organization_url: https://www.edx.org
     title: 8 July 2022 Paper " A Probe-Feature for Specific Emitter Identification Using Axiom-based Grad-CAM" has been accepted by Signal Processing !
 
+  - certificate_url: 
+    date_end: ''
+    date_start: '2022-05-27'
+    description: This paper has been preprinted in arXiv on 27, May, 2022 and under review in IEEE Transactions on Aerospace and Electronic System. Zhenpeng Feng is the first author and corresponding author.
+    organization: arXiv
+    organization_url: https://arxiv.org/abs/2205.13294
+    title: 27 May 2022 Paper " nalytical Interpretation of Latent Codes in InfoGAN with SAR Images" has been preprinted in arXiv !
+
 design:
   columns: '2'
 ---
