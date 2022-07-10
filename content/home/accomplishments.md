@@ -31,14 +31,13 @@ item:
     organization_url: https://www.edx.org
     title: Paper "A Probe-Feature for Specific Emitter Identification Using Axiom-based Grad-CAM" has been accepted by Signal Processing !
 
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
-    description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
-    url: ''
+  - certificate_url: 
+    date_end: ''
+    date_start: '2022-05-27'
+    description: This paper has been preprinted in ArXiv an under review in IEEE Transactions on Aerospace and Electronic System.
+    organization: ArXiv
+    organization_url: https://arxiv.org/abs/2205.13294
+    title: Paper "Analytical Interpretation of Latent Codes in InfoGAN with SAR Images" has been preprinted in ArXiv !
 
 design:
   columns: '2'
