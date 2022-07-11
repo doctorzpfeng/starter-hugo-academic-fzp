@@ -27,9 +27,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: CAM with SAR Images
+    - name: Visualizing Neural Network
       tag: CAM
-    - name: Interpretable GAN with SAR Images
+    - name: Interpreting GAN with SAR Images
       tag: GAN
 
 design:
