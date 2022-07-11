@@ -1,9 +1,9 @@
 ---
-title:  Oral Presentation in the 2021 CIE International Conference on Radar
+title:  Oral Presentation in RADAR 2021
 subtitle: 
 # Summary for listings and search engines
-summary: The paper "G-SM-CAM: A Fast Visual Understanding of
-CNNs in SAR Images Interpretation" has been published in RADAR 2021 and selected as a oral paper. I was invited to give an oral presentation of this paper on 17, December, 2021, Haikou, Hainan, China.
+summary: The paper G-SM-CAM: A Fast Visual Understanding of
+CNNs in SAR Images Interpretation has been published in RADAR 2021 and selected as a oral paper. I was invited to give an oral presentation of this paper on 17, December, 2021, Haikou, Hainan, China.
 # Link this post with a project
 projects: []
 
