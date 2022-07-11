@@ -33,6 +33,7 @@ publication: In *Remote Sensing*
 publication_short: In *Remote Sens*
 
 abstract: Synthetic aperture radar (SAR) image interpretation has long been an important but challenging task in SAR imaging processing. Generally, SAR image interpretation comprises complex procedures including filtering, feature extraction, image segmentation, and target recognition, which greatly reduce the efficiency of data processing. In an era of deep learning, numerous automatic target recognition methods have been proposed based on convolutional neural networks (CNNs) due to their strong capabilities for data abstraction and mining. In contrast to general methods, CNNs own an end-to-end structure where complex data preprocessing is not needed, thus the efficiency can be improved dramatically once a CNN is well trained. However, the recognition mechanism of a CNN is unclear, which hinders its application in many scenarios. In this paper, Self-Matching class activation mapping (CAM) is proposed to visualize what a CNN learns from SAR images to make a decision. Self-Matching CAM assigns a pixel-wise weight matrix to feature maps of different channels by matching them with the input SAR image. By using Self-Matching CAM, the detailed information of the target can be well preserved in an accurate visual explanation heatmap of a CNN for SAR image interpretation. Numerous experiments on a benchmark dataset (MSTAR) verify the validity of Self-Matching CAM.
+abstract_short: XXX
 
 # Summary. An optional shortened abstract.
 # summary: 
