@@ -26,22 +26,20 @@ content:
 
   # Contact details (edit or remove options as required)
   email: zpfeng_1@stu.xidian.edu.cn
-  phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 2nd Taibai Road
+    city: Xi'an
+    region: Shaanxi
+    postcode: '710071'
+    country: China
+    country_code: China
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '34.2309'
+    longitude: '108.9168'
+  directions: Enter Main Building (3rd section)  and take the stairs to Office 215 (South) on Floor 2
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
+    - 'Monday to Thursday 9:00 to 20:30'
+    - 'Friday 09:00 to 17:00'
   contact_links:
     - icon: twitter
       icon_pack: fab
