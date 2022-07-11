@@ -1,8 +1,6 @@
 ---
-title:  Successful Lectures to Staff in University of Montenegro 
-subtitle: I arrived in Montenegro on 7, March, 2022 and gave a series of lectures on interpretable AI and SAR images to the members in TFSA Group of University of Montenegro.
-The lectures are held successfully and highlg acclaimed by Prof. Ljubisa and other members of TFSA. 
-
+title:  
+subtitle: 
 # Summary for listings and search engines
 summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
 
