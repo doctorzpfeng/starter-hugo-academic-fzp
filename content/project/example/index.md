@@ -1,5 +1,5 @@
 ---
-title: CAM with SAR Images and SEI Signals
+title: Visualizing Neural Network
 summary:  This project mainly focuses on visualizing CNN in SAR and SEI scenarios.
 tags:
   - various CAM for SAR images and time-frequency analysis
