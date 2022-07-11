@@ -1,64 +1,45 @@
 ---
-title: 'G-SM-CAM A Fast Visual Understanding of
-CNNs in SAR Images Interpretation'
+title: 'Analytical Interpretation of Latent Codes in InfoGAN with SAR Images'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  -Jingyuan Fan
   - admin
+  - Milos Dakovic
   - Hongbing Ji
   - Mingzhe Zhu
-  - Bo Zang
-  - Lingling Ding
+  - Ljubisa Stankovic
 
 # Author notes (optional)
 author_notes:
-  - 'First Author'
-  - 'Corresponding Author
+  - 'First Author and Corresponding Author'
 
 
-date: '2021-12-15T00:00:00Z'
+date: '2022-05-27T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-12-15T00:00:00Z'
+publishDate: '2022-05-27T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['1']
+publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The 2021 CIE International Conference on Radar*
-publication_short: In *RADAR 2021*
+publication: In *arXiv*
+publication_short: In *arXiv*
 
-abstract: Numerous automatic recognition methods based on
-convolutional neural networks (CNNs) can achieve high calculation
-efficiency owing to its end-to-end structure. However, the
-internal mechanism of CNNs is intransparent which is limiting
-or even disqualifying in SAR image interpretation. To provide a
-visual understanding of CNNs’ mechanism, we propose a Group-
-Self-Matching class activation mapping (G-SM-CAM) inspired by
-the split strategy and Self-Matching CAM. In specific, feature
-maps are firstly split into several groups and then the subfeature
-maps are merged as a new class activation. Finally, each
-class activation is ”self-matched” with the input image as the
-renewed feature maps to generate saliency map. G-SM-CAM is
-efficient and effective on SAR images, which runs dramatically
-faster than Self-Matching CAM at minor cost of saliency map
-quality. Numerous experimental results demonstrate the validity
-and efficiency of G-SM-CAM based on a benchmark dataset
-MSTAR.
+abstract: Generative Adversarial Networks (GANs) can synthesize abundant photo-realistic synthetic aperture radar (SAR) images. Some recent GANs (e.g., InfoGAN), are even able to edit specific properties of the synthesized images by introducing latent codes. It is crucial for SAR image synthesis since the targets in real SAR images are with different properties due to the imaging mechanism. Despite the success of InfoGAN in manipulating properties, there still lacks a clear explanation of how these latent codes affect synthesized properties, thus editing specific properties usually relies on empirical trials, unreliable and time-consuming. In this paper, we show that latent codes are disentangled to affect the properties of SAR images in a non-linear manner. By introducing some property estimators for latent codes, we are able to provide a completely analytical nonlinear model to decompose the entangled causality between latent codes and different properties. The qualitative and quantitative experimental results further reveal that the properties can be calculated by latent codes, inversely, the satisfying latent codes can be estimated given desired properties. In this case, properties can be manipulated by latent codes as we expect.
 
 # Summary. An optional shortened abstract.
 # summary: 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
