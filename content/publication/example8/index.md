@@ -11,7 +11,7 @@ authors:
   - Jun Li
   - Lu Zhong
   - Xiaofan Su
-  -admin
+  - admin
   - Yue Qi
   - Xinliang Zhang
 
