@@ -34,17 +34,7 @@ publication_types: ['2']
 publication: In *Electronics*
 publication_short: In *Electronics*
 
-abstract: Time-frequency (TF) signal features are widely used in specific emitter identification
-(SEI) which commonly arises in many applications, especially for radar signals. Due to data
-scale and algorithm complexity, it is difficult to obtain an informative representation for SEI
-with existing TF features. In this paper, a feature extraction method is proposed based on
-synchrosqueezing transform (SST). The SST feature has an equivalent dimension to Fourier transform,
-and retains the most relevant information of the signal, leading to on average approximately
-20 percent improvement in SEI for complex frequency modulation signals compared with existing
-handcrafted features. Numerous results demonstrate that the synchrosqueezing TF feature can offer
-a better recognition accuracy, especially for the signals with intricate time-varying information.
-Moreover, a linear relevance propagation algorithm is employed to attest to the SST feature
-importance from the perspective of deep learning.
+abstract: 
 
 # Summary. An optional shortened abstract.
 # summary: 
