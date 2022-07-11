@@ -48,6 +48,5 @@ members of TFSA Group in University of Montenegro.
 
 The above photo  of all members of TFSA Group and me was taken after my lectures.
 
-# {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
 
