@@ -1,5 +1,6 @@
 ---
-title: 'Analytical Interpretation of Latent Codes in InfoGAN with SAR Images'
+title: 'G-SM-CAM: A Fast Visual Understanding of
+CNNs in SAR Images Interpretations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
