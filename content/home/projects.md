@@ -27,9 +27,9 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: CAM
+    - name: CAM with SAR Images
       tag: CAM
-    - name: GAN
+    - name: Interpretable GAN with SAR Images
       tag: GAN
 
 design:
