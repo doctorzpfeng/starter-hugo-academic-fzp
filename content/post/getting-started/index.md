@@ -1,5 +1,5 @@
 ---
-title:  Lectures in University of Montenegro
+title:  One-year Stay in Montenegro Begins!
 subtitle: 
 # Summary for listings and search engines
 summary: I arrived in Montenegro on 7, March, 2022 and gave a series of lectures on interpretable AI with SAR images to the members of TFSA Group in University of Montenegro.
@@ -41,7 +41,7 @@ authors:
  # - 教程
 ---
 
-## One-year Stay in Montenegro Begins!
+
 I was fully sponsored by a scholarship of Xidian University to study in University of Montenegro for one year at least (from March 2022 to March 2023). I have arrived
 in Montenegro on 7, March, 2022 and then gave a series of lectures on interpretable AI with SAR images. The lectures were held successfully and highly acclaimed by the 
 members of TFSA Group in University of Montenegro. 
