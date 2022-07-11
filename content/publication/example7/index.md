@@ -1,14 +1,16 @@
 ---
-title: 'A Novel Data-Driven Specific Emitter Identification
-Feature Based on Machine Cognition'
+title: 'LIME-Based Data Selection Method for SAR Images
+Generation Using GAN'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Mingzhe Zhu
+  - Bo Zang
+  - Tao Lei
   - admin
-  - Xianda Zhou
+  - Jingyuan Fan
 
 
 # Author notes (optional)
@@ -16,11 +18,11 @@ author_notes:
   - 'First Author'
   - 'Corresponding Author'
 
-date: '2020-08-14T00:00:00Z'
+date: '2022-01-03T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-08-14T00:00:00Z'
+publishDate: '2022-01-03T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
