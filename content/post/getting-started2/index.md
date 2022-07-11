@@ -41,12 +41,9 @@ authors:
  # - 教程
 ---
 
+The paper G-SM-CAM: A Fast Visual Understanding of
+CNNs in SAR Images Interpretation has been published in RADAR 2021 and selected as a oral paper. I was invited to give an oral presentation of this paper on 17, December, 2021, Haikou, Hainan, China.
 
-I was fully sponsored by a scholarship of Xidian University to study in University of Montenegro for one year at least (from March 2022 to March 2023). I have arrived
-in Montenegro on 7, March, 2022 and then gave a series of lectures on interpretable AI with SAR images. The lectures were held successfully and highly acclaimed by the 
-members of TFSA Group in University of Montenegro. 
-
-The above photo  of all members of TFSA Group and me was taken after my lectures.
 
 
 
