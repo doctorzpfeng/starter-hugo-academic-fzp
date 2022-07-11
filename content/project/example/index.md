@@ -12,6 +12,8 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
+## XXX
+
 #links:
 #  - icon: twitter
 #    icon_pack: fab
