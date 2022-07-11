@@ -31,8 +31,8 @@ publishDate: '2022-01-03T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Electronics*
-publication_short: In *Electronics*
+publication: In *Remote Sensing*
+publication_short: In *Remote Sens*
 
 abstract: 
 
