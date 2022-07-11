@@ -32,6 +32,7 @@ url_video: ''
 # slides: example
 ---
 
-I was fully sponsored by a scholarship of Xidian University to study in University of Montenegro for one year at least (from March 2022 to March 2023). I have arrived
-in Montenegro on 7, March, 2022 and then gave a series of lectures on interpretable AI with SAR images. The lectures were held successfully and highly acclaimed by the 
-members of TFSA Group in University of Montenegro. 
+This project mainly foucues on visualizing the inner mechanism of artifical neural networks with radar images and signals. Artificial neural networks, especially convolutional
+neural networks (CNNs), have obtained remarkable achievements in computer vision, however, there still lacks a clear interpretation of CNN's decision. To alleviate such a "black-box" property of CNN, some visualization methods are developed to highlight the regions of an image, which are responsible for
+CNN's decision. They can be further categorized as: perturbation-based, propagation-based (Guided Backprob, Layer-wise Relevance Propagation, Deep Taylor, Integrated Gradient, etc)
+and activation-based methods ( (class activation mapping, CAM)).
