@@ -36,19 +36,16 @@ content:
   coordinates:
     latitude: '34.2309'
     longitude: '108.9168'
-  directions: Enter Main Building (3rd section)  and take the stairs to Office 215 (South) on Floor 2
+  directions: Enter Main Building (3rd section)  and take the stairs to Office 215 on Floor 2
   office_hours:
-    - 'Monday to Thursday 9:00 to 20:30'
+    - 'Monday to Thursday 9:00 to 20:00'
     - 'Friday 09:00 to 17:00'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: 'https://twitter.com/Twitter'
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: 'https://zoom.com'
+      link: 'https://twitter.com/zhenpeng_feng'
+
 
 design:
   columns: '2'
