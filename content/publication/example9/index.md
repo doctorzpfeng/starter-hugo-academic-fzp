@@ -1,6 +1,5 @@
 ---
-title: 'A probe-feature for specific emitter identification using axiom-based grad-
-CAM'
+title: 'A Probe-Feature for Specific Emitter Identification Using Axiom-based Grad-CAM'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
