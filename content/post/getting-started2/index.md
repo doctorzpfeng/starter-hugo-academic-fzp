@@ -1,16 +1,17 @@
 ---
-title:  One-year Stay in Montenegro Begins!
+title:  Oral Presentation in the 2021 CIE International Conference on Radar
 subtitle: 
 # Summary for listings and search engines
-summary: I arrived in Montenegro on 7, March, 2022 and gave a series of lectures on interpretable AI with SAR images to the members of TFSA Group in University of Montenegro.
+summary: The paper "G-SM-CAM: A Fast Visual Understanding of
+CNNs in SAR Images Interpretation" has been published in RADAR 2021 and selected as a oral paper. I was invited to give an oral presentation of this paper on 17, December, 2021, Haikou, Hainan, China.
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2022-03-12T00:00:00Z'
+date: '2021-12-17T00:00:00Z'
 
 # Date updated
-lastmod: '2020-03-12T00:00:00Z'
+lastmod: '2021-12-17T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
