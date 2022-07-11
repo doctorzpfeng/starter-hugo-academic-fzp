@@ -12,7 +12,6 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-## XXX
 
 #links:
 #  - icon: twitter
@@ -46,7 +45,9 @@ proposed, like Grad-CAM, Grad-CAM++, XGrad-CAM, Ablation CAM, and Score-CAM. How
 
 In this project, we firstly proposed Self-Matching CAM which is particularly designed for SAR images. The experimental results show that Self-Matching CAM outperforms all current optical-image-based CAMs. Subsequently, we proposed
 G-SM-CAM to improve the efficiency of original Self-Matching CAM, whereas G-SM-CAM is at cost of visualization effect. To satisfy both effect and efficiency, we  further proposed SC-SM CAM introducing spectral clustering to split the feature maps with high similarity into the same group. SC-SM CAM performs better and faster than Self-Matching CAM.
+Besides, we firstly utilize XGrad-CAM to extract a Probe-Feature from the time-frequency representations of radar signals.
 
-Note: Self-Matching CAM and SC-SM CAM are published in Remote Sensing (IF: 5.349) 
-          
+Note: 
+Probe-Feature is published in Signal Processing (IF: 4.729, 2022).
+Self-Matching CAM and SC-SM CAM are published in Remote Sensing (IF: 5.349, 2022).
 G-SM-CAM has been published in The 2021 CIE International Conference on Radar (RADAR 2021) and selected as oral paper. The corresponding author Zhenpeng Feng gave the oral presentation on 17, December, 2021.
