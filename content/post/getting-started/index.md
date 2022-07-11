@@ -7,10 +7,10 @@ summary: I arrived in Montenegro on 7, March, 2022 and gave a series of lectures
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2022-03-12T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2020-03-12T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -25,6 +25,14 @@ image:
   focal_point: ''
   placement: 2
   preview_only: false
+
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ''
+  placement: 2
+  preview_only: false
+
+
 
 authors:
   - admin
