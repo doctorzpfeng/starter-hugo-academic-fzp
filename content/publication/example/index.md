@@ -1,5 +1,6 @@
 ---
-title: 'Self-Matching CAM'
+title: 'Self-Matching CAM: A Novel Accurate Visual Explanation of
+CNNs for SAR Image Interpretation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
