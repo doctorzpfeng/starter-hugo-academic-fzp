@@ -31,11 +31,7 @@ url_video: ''
 # slides: example
 ---
 
-This project mainly foucues on visualizing the inner mechanism of convolutional neural networks (CNNs) with radar images and signals. CNNs have obtained remarkable achievements in computer vision, however, there still lacks a clear interpretation of CNN's decision. To alleviate such a "black-box" property of CNN, some visualization methods are developed to highlight the regions of an image, which are responsible for
-CNN's decision. However, the interpretability of
-CNNs is often criticized by the community, as these networks usually look like complicated
-black boxes with massive unexplained parameters. 
-
+This project mainly foucues on visualizing the inner mechanism of convolutional neural networks (CNNs) with radar images and signals.
 An important issue in CNN learning is to explain what CNNs learned from the input to make the correct decision. To this aim, some visualization methods are developed to highlight the regions of an image, which are responsible for
 CNN's decision, like class activation mapping (CAM). CAM, originally proposed by B. Zhou, highlights objects by resorting to the activation of feature maps. Numerous modified CAMs are further
 proposed, like Grad-CAM, Grad-CAM++, XGrad-CAM, Ablation CAM, and Score-CAM. However, all aforementioned CAMs are based on optical images and none of them show satisfactory effects when applied to SAR images.
