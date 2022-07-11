@@ -26,12 +26,6 @@ image:
   placement: 2
   preview_only: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ''
-  placement: 2
-  preview_only: false
-
 
 
 authors:
@@ -47,11 +41,12 @@ authors:
  # - 教程
 ---
 
-## Overview
+## Stay in Montenegro begins!
+I was fully sponsored by a scholarship of Xidian University to study in University of Montenegro for one year at least (from March 2022 to March 2023). I have arrived
+in Montenegro on 7, March, 2022 and then gave a series of lectures on interpretable AI with SAR images. The lectures were held successfully and highly acclaimed by the 
+members of TFSA Group in University of Montenegro. 
 
-1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
-2. The template can be modified and customised to suit your needs. It's a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a **no-code solution (write in Markdown and customize with YAML parameters)** and having **flexibility to later add even deeper personalization with HTML and CSS**
-3. You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more
+The above photo  of all members of TFSA Group and me was taken after my lectures.
 
 {{< figure src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" title="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." >}}
 
