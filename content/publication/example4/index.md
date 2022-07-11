@@ -6,18 +6,19 @@ CNNs in SAR Images Interpretations'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
+  - Jingyuan Fan
   - admin
-  - Milos Dakovic
   - Hongbing Ji
   - Mingzhe Zhu
-  - Ljubisa Stankovic
+  - Bo Zang
+  - Linlin Ding
 
 # Author notes (optional)
 author_notes:
   - 'First Author and Corresponding Author'
 
 
-date: '2022-05-27T00:00:00Z'
+date: '2021-12-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
