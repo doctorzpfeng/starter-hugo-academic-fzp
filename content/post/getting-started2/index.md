@@ -2,7 +2,7 @@
 title:  Oral Presentation
 subtitle: 
 # Summary for listings and search engines
-summary: XXX
+summary: I gave oral presentation of my paper in the 2021 International Conference on Radar on 17, December, 2021.
 # Link this post with a project
 projects: []
 
