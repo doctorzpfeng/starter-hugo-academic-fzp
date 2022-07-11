@@ -74,6 +74,6 @@ Zhenpeng Feng is currently a Ph.D. student of control science and engineering at
 include interpreting neural networks, SAR image processing, and time-frequency analysis. He is fully sponsored by a scholarship of Xidian University to be a visiting student in Faculty of Electrical Engineering, Univeristy of Montenegro, working
 with Prof. Ljubisa Stankovic (IEEE Fellow, member of European Academy of Sciences and Arts) and his research team.
 
-Zhenpeng Feng has published 10 papers in leading journals and conferences, like Signal Processing, Remote Sensing, etc. He mainly focuses on two projects: visualizing CNN's decisions and interpreting GAN based on SAR images and radar signals.
+Zhenpeng Feng has published 10 papers in leading journals and conferences, like Signal Processing, Remote Sensing, etc. He mainly focuses on two projects: visualizing CNN's decisions and interpreting GAN with SAR images.
 More details can be found in Projects. The best way to contact Zhenpeng Feng is by email and it is welcomed to cooperate with him in scientific research.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
