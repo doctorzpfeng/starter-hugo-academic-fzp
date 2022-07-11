@@ -1,5 +1,5 @@
 ---
-title: 'G-SM-CAM: A Fast Visual Understanding of
+title: 'G-SM-CAM A Fast Visual Understanding of
 CNNs in SAR Images Interpretation'
 
 # Authors
