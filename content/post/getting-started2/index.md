@@ -2,7 +2,7 @@
 title:  Oral Presentation
 subtitle: 
 # Summary for listings and search engines
-summary: 
+summary: XXX
 # Link this post with a project
 projects: []
 
