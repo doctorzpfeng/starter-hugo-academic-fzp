@@ -15,8 +15,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-  - 'First Author and Corresponding Author'
-
+  - 'First Author'
+  - 'Corresponding Author'
 
 date: '2021-12-15T00:00:00Z'
 doi: ''
