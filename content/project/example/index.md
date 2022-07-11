@@ -31,3 +31,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+
+I was fully sponsored by a scholarship of Xidian University to study in University of Montenegro for one year at least (from March 2022 to March 2023). I have arrived
+in Montenegro on 7, March, 2022 and then gave a series of lectures on interpretable AI with SAR images. The lectures were held successfully and highly acclaimed by the 
+members of TFSA Group in University of Montenegro. 
