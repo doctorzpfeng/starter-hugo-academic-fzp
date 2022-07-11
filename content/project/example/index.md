@@ -1,6 +1,7 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: CAM with SAR Images and SEI Signals
+summary: In this project, we focus on visualizing the inner mechanism of CNN as a classifier in SAR images and specific emitter identication (SEI) signals. 
+We have published 3 papers relevant to this topic. 
 tags:
   - CAM
 date: '2016-04-27T00:00:00Z'
