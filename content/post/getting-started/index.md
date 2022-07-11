@@ -3,7 +3,6 @@ title:  Lectures in University of Montenegro
 subtitle: 
 # Summary for listings and search engines
 summary: I arrived in Montenegro on 7, March, 2022 and gave a series of lectures on interpretable AI with SAR images to the members of TFSA Group in University of Montenegro.
-The lectures were held successfully and highly acclaimed by the Prof. Ljubisa and other members.
 # Link this post with a project
 projects: []
 
