@@ -1,6 +1,6 @@
 ---
 title: CAM with SAR Images and SEI Signals
-summary: 
+summary:  This project mainly focuses on visualizing CNN in SAR and SEI scenarios.
 tags:
   - various CAM for SAR images and time-frequency analysis
 date: '2016-04-27T00:00:00Z'
