@@ -28,7 +28,7 @@ item:
     date_start: '2022-07-08'
     description: This paper has been officially accepted by Signal Processing on 8, July, 2022. Mingzhe Zhu and Zhenpeng Feng (corresponding author) are joint first authors.
     organization: Signal Processing
-    organization_url: https://www.edx.org
+    organization_url: https://doi.org/10.1016/j.sigpro.2022.108685
     title: 8 July 2022 Paper " A Probe-Feature for Specific Emitter Identification Using Axiom-based Grad-CAM" has been accepted by Signal Processing !
 
   - certificate_url: 
@@ -43,8 +43,8 @@ item:
     date_end: ''
     date_start: '2021-10-15'
     description: This paper has been published in Remote Sensing on 15, October, 2021. Zhenpeng Feng is the first author.
-    organization: arXiv
-    organization_url: https://arxiv.org/abs/2205.13294
+    organization: Remote Sensing
+    organization_url: https://doi.org/10.3390/rs13204139
     title: 15 October 2021 Paper "SC SM CAM An Efficient Visual Interpretation of CNN for SAR Images Target Recognition" has been published in Remote Sensing !
 
 design:
